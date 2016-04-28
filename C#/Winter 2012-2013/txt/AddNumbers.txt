@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter any number of integers: ");
+
+            List<int> numbersList = new List<int>();
+
+            int input = 0;
+            string numberIn = "";
+
+            while (numberIn != "stop")
+            {
+                numberIn = Console.ReadLine();
+
+                if (numberIn != "stop" && !int.TryParse(numberIn, out input))
+                {
+                    Console.WriteLine("That is not an integer!");
+                    Console.ReadLine();
+                    return;
+                }
+
+                int.TryParse(numberIn, out input);
+                numbersList.Add(input);
+            }
+
+            int sum = 0;
+            int sizeOfNumberList = numbersList.Count;
+
+            for (int i = 0; i < sizeOfNumberList; i++)
+            {
+                sum = sum + numbersList[i];
+            }
+
+            Console.WriteLine("The sum is " + sum + ".");
+            Console.ReadLine();
+
+        }
+    }
+}

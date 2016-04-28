@@ -1,0 +1,10 @@
+C:\Users\Jimmy\AppData\Local\Temporary Projects\NetTest\bin\Debug\NetTest.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\NetTest\bin\Debug\NetTest.pdb
+C:\Users\Jimmy\AppData\Local\Temporary Projects\NetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\AppData\Local\Temporary Projects\NetTest\obj\x86\Debug\NetTest.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\NetTest\obj\x86\Debug\NetTest.pdb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\NetTest\NetTest\obj\x86\Debug\NetTest.exe
+C:\Users\Jimmy\Desktop\C#\Summer 2013\NetTest\NetTest\obj\x86\Debug\NetTest.pdb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\NetTest\NetTest\bin\Debug\NetTest.exe
+C:\Users\Jimmy\Desktop\C#\Summer 2013\NetTest\NetTest\bin\Debug\NetTest.pdb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\NetTest\NetTest\obj\x86\Debug\ResolveAssemblyReference.cache

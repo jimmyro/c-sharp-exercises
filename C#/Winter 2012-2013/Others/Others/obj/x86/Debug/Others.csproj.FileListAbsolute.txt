@@ -1,0 +1,5 @@
+C:\Users\Jimmy\Desktop\C#\Others\Others\bin\Debug\Others.exe
+C:\Users\Jimmy\Desktop\C#\Others\Others\bin\Debug\Others.pdb
+C:\Users\Jimmy\Desktop\C#\Others\Others\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\Others\Others\obj\x86\Debug\Others.exe
+C:\Users\Jimmy\Desktop\C#\Others\Others\obj\x86\Debug\Others.pdb

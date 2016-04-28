@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("What is the upper bound?");
+
+            int hi;
+            int.TryParse(Console.ReadLine(), out hi);
+
+            for (int i = 2; i <= hi; i += 1) //start i at 2 (lowest number to test for primeness), go until i reaches the upper bound, increase i by 1 each time
+            {
+                bool isPrime = true; //declare boolean recording whether or not each number is prime; set start value to "true"
+
+                for (int j = 2; j < i; j += 1) /*start j at 2 (first number to divide by),  
+                                                go until j reaches i (the current number being tested as we count up to the upper bound*/
+                {
+                    if (i % j == 0) //
+                    {
+                        isPrime = false;
+                        Console.WriteLine(i + " is not prime.");
+                        break; //break out of "for j" loop, continue to next increment of i
+                    }
+                }
+
+                if (isPrime)
+                {
+                    Console.WriteLine(i + " is prime.");
+                }
+            }
+
+            Console.ReadLine();
+        }
+    }
+}

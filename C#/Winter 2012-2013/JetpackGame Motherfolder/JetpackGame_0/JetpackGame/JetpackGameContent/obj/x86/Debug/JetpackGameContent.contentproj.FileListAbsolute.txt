@@ -1,0 +1,3 @@
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGameContent\obj\x86\Debug\JetpackGameContent.contentprojResolveAssemblyReference.cache

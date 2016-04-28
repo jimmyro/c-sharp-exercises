@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise11", "Exercise11\Exercise11.csproj", "{CF425262-2D6D-4AC8-8EEA-04BD2A866F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF425262-2D6D-4AC8-8EEA-04BD2A866F2F}.Debug|x86.ActiveCfg = Debug|x86
+		{CF425262-2D6D-4AC8-8EEA-04BD2A866F2F}.Debug|x86.Build.0 = Debug|x86
+		{CF425262-2D6D-4AC8-8EEA-04BD2A866F2F}.Release|x86.ActiveCfg = Release|x86
+		{CF425262-2D6D-4AC8-8EEA-04BD2A866F2F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Exercise11\Exercise11.csproj
+	EndGlobalSection
+EndGlobal

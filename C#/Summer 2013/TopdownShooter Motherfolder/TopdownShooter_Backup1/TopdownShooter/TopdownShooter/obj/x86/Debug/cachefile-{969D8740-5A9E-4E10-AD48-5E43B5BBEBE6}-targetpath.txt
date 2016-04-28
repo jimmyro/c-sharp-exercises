@@ -1,0 +1,3 @@
+Content\black_dot.xnb
+Content\player.xnb
+Content\font.xnb

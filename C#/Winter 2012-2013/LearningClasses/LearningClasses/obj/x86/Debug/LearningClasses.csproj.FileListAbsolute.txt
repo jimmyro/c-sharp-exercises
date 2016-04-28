@@ -1,0 +1,7 @@
+C:\Users\Jimmy\AppData\Local\Temporary Projects\LearningClasses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\AppData\Local\Temporary Projects\LearningClasses\bin\Debug\LearningClasses.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\LearningClasses\bin\Debug\LearningClasses.pdb
+C:\Users\Jimmy\AppData\Local\Temporary Projects\LearningClasses\obj\x86\Debug\LearningClasses.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\LearningClasses\obj\x86\Debug\LearningClasses.pdb
+C:\Users\Jimmy\Desktop\C#\LearningClasses\LearningClasses\obj\x86\Debug\LearningClasses.exe
+C:\Users\Jimmy\Desktop\C#\LearningClasses\LearningClasses\obj\x86\Debug\LearningClasses.pdb

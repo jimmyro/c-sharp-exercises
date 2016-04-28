@@ -1,0 +1,10 @@
+C:\Users\Jimmy\AppData\Local\Temporary Projects\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Jimmy\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Jimmy\Desktop\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Jimmy\Desktop\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Jimmy\Desktop\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Jimmy\Desktop\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Jimmy\Desktop\C#\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache

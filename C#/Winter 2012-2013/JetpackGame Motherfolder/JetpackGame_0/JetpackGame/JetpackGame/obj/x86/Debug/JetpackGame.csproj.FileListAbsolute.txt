@@ -1,0 +1,51 @@
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\JetpackGame.exe
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\JetpackGame.pdb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.exe
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.pdb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\player.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\turret.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_left.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_right.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\vert_bar.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\stat_can.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\player2.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\headbar.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\horiz_bar.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\player.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\turret.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_left.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_right.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\vert_bar.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\stat_can.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\player2.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\headbar.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\horiz_bar.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\JetpackGame.exe
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\bin\x86\Debug\JetpackGame.pdb
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.exe
+C:\Users\Jimmy\Desktop\C#\JetpackGame Motherfolder\JetpackGame\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.pdb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\player.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\turret.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_left.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_right.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\vert_bar.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\stat_can.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\player2.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\headbar.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\horiz_bar.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\JetpackGame.exe
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\JetpackGame.pdb
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.exe
+C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\obj\x86\Debug\JetpackGame.pdb

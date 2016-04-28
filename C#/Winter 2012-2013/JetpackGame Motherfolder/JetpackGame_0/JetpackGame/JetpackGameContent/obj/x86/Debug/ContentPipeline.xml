@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-01-27T15:24:16.5046186-05:00</Time>
+    </Item>
+    <Item>
+      <Source>turret.png</Source>
+      <Name>turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\turret.xnb</Output>
+      <Time>2013-01-27T09:59:12.564605-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-01-27T13:53:25.9638655-05:00</Time>
+    </Item>
+    <Item>
+      <Source>turretcase_left.png</Source>
+      <Name>turretcase_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_left.xnb</Output>
+      <Time>2013-01-27T09:59:17.8218142-05:00</Time>
+    </Item>
+    <Item>
+      <Source>turretcase_right.png</Source>
+      <Name>turretcase_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\turretcase_right.xnb</Output>
+      <Time>2013-01-27T09:59:06.5741945-05:00</Time>
+    </Item>
+    <Item>
+      <Source>vert_bar.png</Source>
+      <Name>vert_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\vert_bar.xnb</Output>
+      <Time>2013-01-27T15:37:13.4670583-05:00</Time>
+    </Item>
+    <Item>
+      <Source>stat_can.png</Source>
+      <Name>stat_can</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\stat_can.xnb</Output>
+      <Time>2013-01-28T09:35:57.2762777-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player2.png</Source>
+      <Name>player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\player2.xnb</Output>
+      <Time>2013-01-28T10:43:05.6030862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>headbar.png</Source>
+      <Name>headbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\headbar.xnb</Output>
+      <Time>2013-01-30T13:48:38.9321611-05:00</Time>
+    </Item>
+    <Item>
+      <Source>horiz_bar.png</Source>
+      <Name>horiz_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\horiz_bar.xnb</Output>
+      <Time>2013-01-30T13:48:38.9321611-05:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2013-01-30T14:02:21.7079938-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jimmy\Desktop\C#\Winter 2012-2013\JetpackGame Motherfolder\JetpackGame_0\JetpackGame\JetpackGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-15T15:24:13.6002753-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

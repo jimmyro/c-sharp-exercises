@@ -1,0 +1,48 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello!");
+            Console.WriteLine("what is your name?");
+                string inputname = Console.ReadLine();
+            Console.WriteLine("Hello, " + inputname + "!");
+
+            Console.WriteLine("How many friends would you like to add?");
+            int numberOfFriends;
+            string inputnumber = Console.ReadLine();
+            int.TryParse(inputnumber, out numberOfFriends);
+            Console.WriteLine("Adding " + inputnumber + " friends");
+
+            string[] friendlist = new string[numberOfFriends];
+
+            for (int i = 0; i < numberOfFriends; i = i + 1)
+            {
+                friendlist[i] = Console.ReadLine();
+            }
+
+            for (int i = 0; i < numberOfFriends; i = i + 1)
+            {
+                if (friendlist[i] == "Bob" || friendlist[i] == "Bill" || friendlist[i] == "Jane")
+                {
+                    Console.WriteLine("You have a boring name, " + friendlist[i] + ".");
+                }
+                else if (friendlist[i] == "Courtney")
+                {
+                    Console.WriteLine("YOLO");
+                }
+                else
+                {
+                    Console.WriteLine("Hello, " + friendlist[i] + "!");
+                }
+            }
+            Console.ReadLine();
+        }
+    }
+}

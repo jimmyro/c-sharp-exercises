@@ -1,0 +1,28 @@
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\Triangle Guy.xnb
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Walkthrough.exe
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Walkthrough.pdb
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Walkthrough.exe
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Walkthrough.pdb
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\cannonball.xnb
+E:\XNA\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\bullet.xnb
+F:\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\Triangle Guy.xnb
+F:\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\cannonball.xnb
+F:\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\bullet.xnb
+F:\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Walkthrough.exe
+F:\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Walkthrough.pdb
+F:\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Walkthrough.exe
+F:\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Walkthrough.pdb
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\Triangle Guy.xnb
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\cannonball.xnb
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Walkthrough.exe
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Walkthrough.pdb
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Walkthrough.exe
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\obj\x86\Debug\Walkthrough.pdb
+C:\Users\Jimmy\Desktop\C#\Walkthrough\Walkthrough\Walkthrough\bin\x86\Debug\Content\enemy.xnb

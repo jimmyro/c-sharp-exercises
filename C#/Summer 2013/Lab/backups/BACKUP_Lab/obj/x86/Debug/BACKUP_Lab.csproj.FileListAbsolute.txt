@@ -1,0 +1,2 @@
+C:\Users\Jimmy\Desktop\C#\Lab\backups\BACKUP_Lab\obj\x86\Debug\Lab.exe
+C:\Users\Jimmy\Desktop\C#\Lab\backups\BACKUP_Lab\obj\x86\Debug\Lab.pdb

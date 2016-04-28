@@ -1,0 +1,5 @@
+C:\Users\Jimmy\Desktop\C#\Summer 2013\Blackbox\Blackbox\bin\Debug\Blackbox.exe
+C:\Users\Jimmy\Desktop\C#\Summer 2013\Blackbox\Blackbox\bin\Debug\Blackbox.pdb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\Blackbox\Blackbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\Summer 2013\Blackbox\Blackbox\obj\x86\Debug\Blackbox.exe
+C:\Users\Jimmy\Desktop\C#\Summer 2013\Blackbox\Blackbox\obj\x86\Debug\Blackbox.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jimmy\AppData\Local\Temporary Projects\math_test\bin\Debug\math_test.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\math_test\bin\Debug\math_test.pdb
+C:\Users\Jimmy\AppData\Local\Temporary Projects\math_test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\AppData\Local\Temporary Projects\math_test\obj\x86\Debug\math_test.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\math_test\obj\x86\Debug\math_test.pdb
+C:\Users\Jimmy\Desktop\C#\math_test\math_test\obj\x86\Debug\math_test.exe
+C:\Users\Jimmy\Desktop\C#\math_test\math_test\obj\x86\Debug\math_test.pdb
+C:\Users\Jimmy\Desktop\C#\math_test\math_test\bin\Debug\math_test.exe
+C:\Users\Jimmy\Desktop\C#\math_test\math_test\bin\Debug\math_test.pdb
+C:\Users\Jimmy\Desktop\C#\math_test\math_test\obj\x86\Debug\ResolveAssemblyReference.cache
